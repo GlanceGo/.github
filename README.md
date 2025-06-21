@@ -1,4 +1,4 @@
-<img width="100" height="100" src="../readme/logo.png" alt="project logo">
+<img width="100" height="100" src="readme/logo.png" alt="project logo">
 
 # GlanceGo
 
